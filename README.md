@@ -1,1 +1,1 @@
-# LEEMINHEE-Hongik-Univ-2D-COMPOSE-class
+# LEEMINHEE Hongik Univ 2D COMPOSE class
